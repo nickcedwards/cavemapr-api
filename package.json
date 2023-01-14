@@ -15,7 +15,9 @@
   },
   "dependencies": {
     "@prisma/client": "^4.8.1",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "express-validator": "^6.14.2",
+    "human-readable-ids": "^1.0.4"
   },
   "devDependencies": {
     "@types/body-parser": "^1.19.2",
