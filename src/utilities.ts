@@ -1,7 +1,5 @@
-import { 
-  // @ts-ignore
-  PrismaClient, 
-  // @ts-ignore
+import {
+  PrismaClient,
   Prisma } from "@prisma/client";
 import express from "express";
 
