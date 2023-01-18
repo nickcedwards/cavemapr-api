@@ -1,8 +1,8 @@
 {
-  "name": "expressjs-prisma",
+  "name": "cavemapr",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Jake Runzer",
+  "author": "Nick Edwards",
   "license": "MIT",
   "scripts": {
     "dev": "nodemon src/index.ts",
